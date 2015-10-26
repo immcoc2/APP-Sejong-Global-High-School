@@ -19,6 +19,8 @@ public class ContentActivity extends AppCompatActivity {
 
     String fromwhere;
     Intent getIntent;
+    
+    //Editing Test
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
